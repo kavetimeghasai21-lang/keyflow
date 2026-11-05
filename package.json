@@ -1,0 +1,22 @@
+{
+  "name": "keyflow",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.14.0",
+    "@vitejs/plugin-react": "latest",
+    "canvas-confetti": "^1.9.4",
+    "lucide-react": "^1.69.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "^9.3.1",
+    "redux-saga": "^1.5.1",
+    "vite": "latest"
+  }
+}
